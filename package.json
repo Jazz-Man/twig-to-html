@@ -1,0 +1,19 @@
+{
+  "name": "twig-to-html",
+  "version": "1.0.0",
+  "description": "A Laravel Mix extension to convert twig files to html.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jazz-Man/twig-to-html.git"
+  },
+  "author": "vsokolyk <vsokolyk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jazz-Man/twig-to-html/issues"
+  },
+  "homepage": "https://github.com/Jazz-Man/twig-to-html#readme"
+}

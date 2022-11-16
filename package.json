@@ -29,7 +29,7 @@
   "dependencies": {
     "globby": "^11.0.1",
     "html-webpack-plugin": "^4.3.0",
-    "loader-utils": "^2.0.0",
+    "loader-utils": "^2.0.4",
     "node-html-parser": "^1.2.20",
     "twig-html-loader": "^0.1.8"
   }
